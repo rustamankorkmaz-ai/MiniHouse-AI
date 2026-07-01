@@ -1,0 +1,3 @@
+
+print("MiniHouse-AI запущен!")
+print("Бот готов к работе")
